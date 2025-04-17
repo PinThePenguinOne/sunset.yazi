@@ -14,7 +14,7 @@
 
 
 ```bash
-ya pack -a PinThePenguine/sunset
+ya pack -a PinThePenguinOne/sunset
 ```
 
 ## ⚙️ Usage
