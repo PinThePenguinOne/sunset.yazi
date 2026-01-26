@@ -12,15 +12,13 @@
 
 ## 🎨 Installation
 
-
 ```bash
-ya pack -a PinThePenguinOne/sunset
+ya pkg add PinThePenguinOne/sunset
 ```
 
 ## ⚙️ Usage
 
 Add the these lines to your `theme.toml` configuration file to use it:
-
 
 ```toml
 [flavor]
